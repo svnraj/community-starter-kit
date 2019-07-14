@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This app helps to learn Github
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Helps to lean Github
 
 ## Getting started
 
